@@ -21,6 +21,12 @@
 |           | WETH       | [old.optics.app](https://old.optics.app)             | 0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4 |
 |           | DAI        | [old.optics.app](https://old.optics.app)             | 0xE4fE50cdD716522A56204352f00AA110F731932d |
 |           | cETH       | [wrapped.com](https://wrapped.com)                   | 0x2DEf4285787d58a2f811AF24755A8150622f4361 |
+| Kava      |            |                                                      |                                            |
+|           | USDC       | [multichain.org](https://multichain.org)             | 0xfa9343c3897324496a05fc75abed6bac29f8a40f | 
+|           | USDT       | [multichain.org](https://multichain.org)             | 0xb44a9b6905af7c801311e8f4e76932ee959c663c | 
+|           | WETH       | [multichain.org](https://multichain.org)             | 0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D | 
+|           | WBTC       | [multichain.org](https://multichain.org)             | 0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b | 
+|           | DAI        | [multichain.org](https://multichain.org)             | 0x765277EebeCA2e31912C9946eAe1021199B39C61 |
 | Harmony   |            |                                                      |                                            |
 |           | 1USDC      | [bridge.harmony.one](https://bridge.harmony.one)     | 0x985458E523dB3d53125813eD68c274899e9DfAb4 |
 |           | 1DAI       | [bridge.harmony.one](https://bridge.harmony.one)     | 0xEf977d2f931C1978Db5F6747666fa1eACB0d0339 |
