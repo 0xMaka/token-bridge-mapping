@@ -8,6 +8,6 @@
 - - [ ] Metis
 - - [ ] Fuse
 - - [ ] Moonbeam
-- - [ ] Kava
+- - [x] Kava
 
 
